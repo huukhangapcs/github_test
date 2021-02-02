@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 abadsad
 sadasdsad
 #new branch
+=======
+sadasdsad----------------
+change on remote ................
+create conflict offline
+create conflict online
+>>>>>>> master
